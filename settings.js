@@ -19,11 +19,11 @@ global.location = "Nalhati, Birbhum, WB,INDIA  " //ur location
 global.botname = '░▒▓█❤️‍🩹 ❯⃞✰ꪶ͢ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷✰★⃞❯🍃█▓▒░' //ur bot name
 global.ownernumber = '918637016112' //ur owner number
 global.ownername = '*꧁﴿☬✞✰ꪶ͢ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷✰★⃞❯ ✞☬﴾꧂*' //ur owner name
-global.websitex = "https://www.facebook.com/sipra.dey.56863/"
+global.websitex = "https://www.facebook.com/profile.php?id=61550095627697&mibextid=ZbWKwL"
 global.wagc = "https://chat.whatsapp.com/I0wL5Kbbejl2l0Gt26zbjy"
 global.themeemoji = '📌'
-global.wm = "▂▃▅▇█▓▒░ 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝖔𝖙 ░▒▓█▇▅▃▂ "
-global.botscript = 'https://github.com/Debashis121212/Dd-Cheems-Bot' //script link
+global.wm = "▂▃▅▇█▓▒░ ❤️‍🩹 ❯⃞✰ꪶ͢ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷✰★⃞❯🍃 ░▒▓█▇▅▃▂ "
+global.botscript = 'https://github.com/' //script link
 global.packname = "Sticker By"
 global.author = "Rudraraj\n\n+918637016112"
 global.creator = "918637016112 @s.whatsapp.net"
